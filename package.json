@@ -30,7 +30,7 @@
     "nanoid": "3.1.28",
     "object-path-immutable": "^4.1.2",
     "papaparse": "^5.3.1",
-    "prismjs": "^1.25.0",
+    "prismjs": "^1.29.0",
     "tiny-emitter": "^2.1.0",
     "tippy.js": "^6.3.1",
     "v-remixicon": "^0.1.1",
